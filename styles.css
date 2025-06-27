@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #ffe6f0; /* soft pink background */
+  color: #333;
+}
+
+h1 {
+  color: #d63384; /* bold pink title */
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.member {
+  background: #fff0f6; /* lighter pink sections */
+  border: 2px solid #ffb3d9;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 16px rgba(255, 102, 178, 0.2);
+  transform: scale(0.95);
+  opacity: 0;
+  animation: fadeInScale 1s forwards;
+}
+
+.member:nth-child(even) {
+  background: #ffe0eb; /* alternate pink shade */
+}
+
+.avatar {
+  max-width: 120px;
+  border-radius: 50%;
+  margin-top: 15px;
+  border: 3px solid #ff66b2;
+  box-shadow: 0 0 10px rgba(255, 102, 178, 0.4);
+}
+
+/* Dynamic animation */
+@keyframes fadeInScale {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

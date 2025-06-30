@@ -7,10 +7,11 @@ Team members:
 - Wangondu Mercy Mumbi
 
 
-
-we learned how to
+# we learned how to
 - Use GitHub for version control
 - Create a team profile site using HTML and CSS
 - Collaborate effectively using GitHub Classroom
 
-        
+# Future expectations for the course
+
+

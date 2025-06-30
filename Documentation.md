@@ -6,5 +6,5 @@ Team members:
 - Mercy Mwaniki
 - Wangondu Mercy Mumbi
 
-
-
+#Debra's Reflection
+I learned how to solve merge conflicts in GitHub. 

@@ -8,3 +8,9 @@ Team members:
 
 
 
+we learned how to
+- Use GitHub for version control
+- Create a team profile site using HTML and CSS
+- Collaborate effectively using GitHub Classroom
+
+        

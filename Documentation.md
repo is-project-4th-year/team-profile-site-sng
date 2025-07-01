@@ -25,3 +25,15 @@ What I have learnt
 Future expectations
 - Easier collaboration on future projects.
 - Exploring Advance Git features like stash
+
+Debra JUMA's Reflection
+What I have learnt
+- How to create a branch
+- How to make a pull request
+- How to merge a pull request
+- How to resolve merge conflicts
+- How to use issues to track bugs and features
+
+Future expectations
+- More efficient project management.
+- Improved collaboration with team members.

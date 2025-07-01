@@ -15,3 +15,13 @@ what we have learnt about github
 - How to use issues to track bugs and features
 
 Future expectations for the course
+
+Mercy Mwaniki's Reflection
+What I have learnt
+- Structuring projects with milestones and issues
+- using GitHub Project boards
+- Committ messages coneventions
+
+Future expectations
+- Easier collaboration on future projects.
+- Exploring Advance Git features like stash
